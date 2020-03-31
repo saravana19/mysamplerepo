@@ -1,1 +1,2 @@
 The new text added will be shown here
+added new line
